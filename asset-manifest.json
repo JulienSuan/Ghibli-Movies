@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ghibli-movies/static/css/main.e7ae94eb.css",
-    "main.js": "/ghibli-movies/static/js/main.5e6d1d3e.js",
+    "main.js": "/ghibli-movies/static/js/main.10a1daf3.js",
     "static/js/787.f606339e.chunk.js": "/ghibli-movies/static/js/787.f606339e.chunk.js",
     "static/media/Studio Ghibli on Twitter.jfif": "/ghibli-movies/static/media/Studio Ghibli on Twitter.7d11856fd268fec4c5f2.jfif",
     "static/media/bizarre-beasties-10sep-hires-00000-00000.jpg": "/ghibli-movies/static/media/bizarre-beasties-10sep-hires-00000-00000.c081db5c2d001b07b2cc.jpg",
     "index.html": "/ghibli-movies/index.html",
     "main.e7ae94eb.css.map": "/ghibli-movies/static/css/main.e7ae94eb.css.map",
-    "main.5e6d1d3e.js.map": "/ghibli-movies/static/js/main.5e6d1d3e.js.map",
+    "main.10a1daf3.js.map": "/ghibli-movies/static/js/main.10a1daf3.js.map",
     "787.f606339e.chunk.js.map": "/ghibli-movies/static/js/787.f606339e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7ae94eb.css",
-    "static/js/main.5e6d1d3e.js"
+    "static/js/main.10a1daf3.js"
   ]
 }

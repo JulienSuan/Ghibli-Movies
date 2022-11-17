@@ -18,7 +18,7 @@ export default function Movie({data}) {
   return (
       <div className="div">
           <div className="fixbackground"></div>
-        <div className="header">Studio Ghibli Movies ✨</div>
+        <div className="header">Studio Ghibli Movies ✨ <p style={{margin: "0"}}>WatchList comming soon ...</p></div>
       <FlipMove className='aya'>
                 
             {data

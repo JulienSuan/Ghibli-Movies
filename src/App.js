@@ -5,7 +5,6 @@ import axios from 'axios';
 
 import Movie from './Components/Movie/Movie';
 import { Route, Routes } from 'react-router-dom';
-import Home from './Components/Home/Home';
 import Mov from './Components/Mov/Mov';
 
 function App() {

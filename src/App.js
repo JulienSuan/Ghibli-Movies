@@ -32,7 +32,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/movies/:id' element={<Mov></Mov>}></Route>
-      {load ? <Route exact path='/ghibli-movies' element={<Movie data={data}></Movie>}></Route> : console.log('protu')}
+      <Route exact path='/ghibli-movies' element={<Movie data={data}></Movie>}></Route>
       </Routes>
 
     </div>
